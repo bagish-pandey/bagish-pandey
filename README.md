@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome
-![Web Developer](https://github.com/bagish-pandey/assets/blob/main/github-header-image.png)
+![Web Developer](./github-header-image.png)
 
 - 🌱 I’m currently learning **Next.js**
 
